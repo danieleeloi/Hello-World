@@ -58,12 +58,18 @@ Year | Teacher | Course
 2017 | BB | cccc
 2018 | DD | eeee
 
-\-- Default
-\:--: Center
-\:-- Right
-\--: Left
-
 column1 \| column2 \| column3
+
+
+\--- Default (Left)
+
+\:---: Center
+
+\:--- Left
+
+\---: Right
+
+
 
 
 
